@@ -614,7 +614,7 @@ Make sure the following are installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/PardeepSingh17/assignment-job-portal.git
 cd Assignment_Job_Portal
 ```
 
