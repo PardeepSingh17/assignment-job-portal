@@ -6,6 +6,11 @@ The application allows applicants to browse available jobs, view job-specific ap
 
 ---
 
+## Live Demo
+
+- **Frontend:** https://assignment-job-portal-ten.vercel.app/
+- **Backend API:** https://assignment-job-portal-api.onrender.com/
+
 ## Tech Stack
 
 ### Frontend
